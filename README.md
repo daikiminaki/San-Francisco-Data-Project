@@ -21,10 +21,6 @@ All data used is from DataSF's Open Data sets.
 
 Source: https://datasf.org/opendata/
 
-## Project Theses
-
-
-
 ## What makes a Better City?
 
 Characteristics of a good city
@@ -34,6 +30,11 @@ Characteristics of a good city
 - Architectural Mix
 - Sustainability and Green Living
 - Low Poverty
+
+
+## Project Theses
+
+
 
 
 ## SF Urban Planning Data Research
