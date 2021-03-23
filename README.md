@@ -6,9 +6,11 @@ The objective of this project is to understand the city and find actionable insi
 
 All data used is from DataSF's Open Data sets.
 
-https://datasf.org/opendata/
+Source: https://datasf.org/opendata/
+
 
 ## Project Outline
+
 https://docs.google.com/document/d/1LOID1LPzFve5NTA5Bm33Azy2P4uSIzIXEqhswn1qBp0/edit?usp=sharing
 
 
